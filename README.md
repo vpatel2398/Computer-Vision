@@ -9,8 +9,11 @@ https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c68
 
 # Install Anaconda Environment
 conda env create -f environment.yml
+
 conda activate cvpj1
+
 OR
+
 Pip Setup
 
 # Install Modules Pip
