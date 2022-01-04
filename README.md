@@ -1,22 +1,10 @@
-Anaconda
+# Anaconda
 If you want to use just Python and not Colab, I highly recommend installing Anaconda. Anaconda is a necessity for data science and you should learn how to use it because it will change your life.
 
 Anaconda Download
 
 Anaconda Cheat Sheet
 
-Clone GitHub Repo
-# Clone
-git clone https://github.com/sawyermade/cvfa21netid_project-1.git
-
-# Change directory name to your netid, example using my netid
-# You can also use file explorer, right-click, and rename
-mv cvfa21netid_project-1 danielsawyer_project-1
-
-# Enter directory, again using my netid as an example
-cd danielsawyer_project-1
-How To Run: Python
-Anaconda Environment Setup
 # Install Anaconda Environment
 conda env create -f environment.yml
 conda activate cvpj1
